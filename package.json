@@ -22,5 +22,10 @@
   "bugs": {
     "url": "https://github.com/jdvr/mustache-static-website/issues"
   },
-  "homepage": "https://github.com/jdvr/mustache-static-website#readme"
+  "homepage": "https://github.com/jdvr/mustache-static-website#readme",
+  "devDependencies": {
+    "buildify": "^0.4.0",
+    "mustache": "^2.2.1",
+    "npm-watch": "^0.1.6"
+  }
 }
