@@ -1,0 +1,26 @@
+{
+  "name": "mustache-static-website",
+  "version": "0.0.1",
+  "description": " A lightweight way to generate flexible static websites. Mustache and Node.",
+  "main": "generate.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdvr/mustache-static-website.git"
+  },
+  "keywords": [
+    "mustache",
+    "node",
+    "npm",
+    "static",
+    "website"
+  ],
+  "author": "jdvr",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/jdvr/mustache-static-website/issues"
+  },
+  "homepage": "https://github.com/jdvr/mustache-static-website#readme"
+}
