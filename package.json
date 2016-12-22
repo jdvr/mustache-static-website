@@ -10,7 +10,7 @@
         "generable-pages"
       ],
       "extensions": "json,mustache,js",
-      "quiet": "false"
+      "quiet": false
     }
   },
   "scripts": {
